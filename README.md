@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm SmaDababaXor - aka Sma 👋
 
-<!--
-**SmaDababaXor/SmaDababaXor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Developer!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to play piano 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="critic.host" width="22px" src="https://cdn.discordapp.com/attachments/847210730432233512/847219675624767488/Critic_Circle.png" />][website]
+
+
+<br />
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SmaDababaXor&show_icons=false&theme=radical" />
+
+</details>
+
+[website]: https://critic.host
