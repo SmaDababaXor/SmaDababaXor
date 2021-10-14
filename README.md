@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play piano 
+- 🎹 Fun fact: I love to play piano 
 
 ### Connect with me:
 
