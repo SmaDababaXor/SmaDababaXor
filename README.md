@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="critic.host" width="22px" src="https://cdn.discordapp.com/attachments/847210730432233512/847219675624767488/Critic_Circle.png" />][website]
+[<img align="left" alt="critic.host" width="22px" src="https://cdn.discordapp.com/attachments/847210730432233512/847219675624767488/Critic_Circle.png" />][website (under maintenance)]
 
 
 <br />
