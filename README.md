@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React
 - 🎹 Fun fact: I love to play piano 
 
 ### Connect with me:
@@ -20,4 +20,4 @@
 
 </details>
 
-[website]: https://critic.host
+[website (under maintenance)]: https://example.com
