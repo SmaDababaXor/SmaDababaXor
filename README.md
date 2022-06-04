@@ -8,7 +8,7 @@
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
-const kurat420  = {
+const SmaDababaXor  = {
     pronouns: "Sma", "SmaDababa",
     code: ["LUA", "HTML", "CSS",  MySQL", "Java", "JS", "C#"],
     askMeAbout:  {
