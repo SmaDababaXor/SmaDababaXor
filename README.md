@@ -40,11 +40,11 @@ const SmaDababaXor  = {
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/SmaDababaXor">
-      <img src="https://github-readme-stats.vercel.app/api/?username=kurat420&title_color=def4ff&text_color=17b2ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=def4ff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=SmaDababaXor&title_color=def4ff&text_color=17b2ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=def4ff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/SmaDababaXor">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kurat420&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=e6f6ff&text_color=17b2ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=e6f6ff&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SmaDababaXor&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=e6f6ff&text_color=17b2ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=e6f6ff&hide_title=true&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
@@ -52,7 +52,7 @@ const SmaDababaXor  = {
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/SmaDababaXor">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=kurat420&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&fire=23A2DD" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=SmaDababaXor&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&fire=23A2DD" />
     </td>
   </tr>
 </p>
