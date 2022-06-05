@@ -10,7 +10,7 @@
 ```javascript
 const SmaDababaXor  = {
     pronouns: "Sma", "SmaDababa",
-    code: ["LUA", "HTML", "CSS",  MySQL", "Java", "JS", "C#"],
+    code: ["LUA", "HTML", "CSS",  "MySQL", "Java", "JS", "C#"],
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional FPS Player"],
         },
