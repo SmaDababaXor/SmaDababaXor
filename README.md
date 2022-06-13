@@ -56,4 +56,4 @@ const SmaDababaXor  = {
   </tr>
 </p>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=smadababaxor&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
