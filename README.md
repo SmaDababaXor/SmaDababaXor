@@ -4,7 +4,6 @@
   <img src="https://i.imgur.com/VLBb85Z.png" width="28">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
@@ -56,3 +55,5 @@ const SmaDababaXor  = {
     </td>
   </tr>
 </p>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
